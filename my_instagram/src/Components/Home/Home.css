@@ -1,0 +1,135 @@
+.body{
+    width: 100%;
+    height: 100%;
+}
+.Istoriyauser{
+    height: 100px;
+    width: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 50px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    background: linear-gradient(45deg, #d8122d, #ec8950, #e167f7);
+}
+.Instagramoptions{
+    position: fixed;
+    margin-right: 1700px;
+    height: 100%;
+    padding-top:60px;
+    padding-left: 70px;
+}
+.Controlzzz{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    
+    padding-right: 50px;
+    
+}
+.Controlzzz i{
+    font-size: 30px;
+    margin-right: 30px;
+}
+.Linkkkk{
+    text-decoration: none;
+    color: black;
+}
+.Istoriya{
+    display: flex;
+}
+.Username{
+    margin-left: 30px;
+}
+.Usernamediv{
+    padding-bottom: 50px;
+}
+.postarea{
+    text-align: center;
+    justify-content: center;
+    border: 1px solid rgb(7, 7, 7);
+    margin-top: 50px;
+    border-radius: 1vh;
+    width: 600px;
+    
+    padding-top: 30px;
+    background-color: linear-gradient(50deg #29d812  #42b0f5 #f38443);
+    padding-bottom: 30px;
+}
+.Create_new_post{
+    margin-top: 20px;
+}
+.postarea i{
+ font-size: 50px;
+}
+.posted-photo{
+    text-align: center;
+    margin-top: 30px;
+    border: 1px solid black;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+.postchooseinput{
+    border: 1px solid rgb(135, 37, 37);
+    background-color: rgb(255, 255, 255);
+    border-radius: 2vh;
+    padding: 10px;
+}
+.Post_button{
+    background-color: rgb(15, 15, 15);
+    margin-top: 25px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+}
+.commentinput{
+    padding: 10px;
+    width: 503px;
+}
+.Post_comment_button{
+    padding: 12px;
+    background-color: rgb(42, 170, 234);
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+}
+.comment-section{
+    border:1px solid black;
+}
+.likeandcaption{
+    display: flex;
+    align-items:center;
+    padding-left: 10px;
+}
+.postedphotonomi{
+    margin-left: 20px;
+}
+.likebbb{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border:1px solid black;
+    background-color:white;
+    align-items:center;
+    padding-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.likebbb.liked {
+    background-color: red;
+  }
+  .Delete_button{
+    padding: 12px;
+    background-color: rgb(42, 170, 234);
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+  }

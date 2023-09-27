@@ -1,0 +1,57 @@
+.header{
+display: flex;
+
+
+align-items: center;
+}
+.a{
+    height: 100%;
+}
+
+
+.backtohome{
+    margin-left: 50px;
+}
+.editprofiletext{
+    margin-left: 800px;
+}
+.homelink{
+    background-color: rgb(230, 230, 202);
+    text-decoration: none;
+    color: rgb(6, 6, 6);
+    margin-left: 10px;
+    border-radius: 5vh;
+    border: 5px solid black;
+    padding: 7px;
+}
+.bodystyle{
+    text-align: center;
+    justify-content: center;
+}
+.name_changing_side{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5vh;
+    width:400px;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    padding-bottom: 30px;
+}
+.subbutton{
+    background-color: rgb(38, 132, 179);
+    margin-top: 25px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+}
+.setnameinput{
+    padding: 10px;
+    width: 300px;
+}
+.setnewnametext{
+    margin: 30px;
+}
+

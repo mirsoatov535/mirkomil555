@@ -1,0 +1,33 @@
+.body{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+}
+.Box{
+    justify-content: center;
+    border:1px solid black;
+    margin-top: 20vh;
+    padding: 10vh;
+    text-align: center;
+}
+.inputs{
+    margin: 5px;
+}
+.realinputs{
+    width: 30vh;
+    padding: 1vh;
+}
+.registerbutton{
+    width: 32.5vh;
+    padding: 1vh;
+    margin-top: 1vh;
+    background-color: rgb(42, 170, 234);
+    color:white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.Loginlink{
+    text-decoration: none;
+    color:rgb(42, 170, 234);
+}
